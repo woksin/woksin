@@ -8,7 +8,7 @@ I like event sourcing, .NET, Rust command-line tools and tooling for AI coding a
 
 ### AI coding-agent tooling
 
-My setup and extensions for the [pi](https://github.com/badlogic/pi-mono) coding agent.
+My setup and extensions for the pi coding agent.
 
 - [**pi-setup**](https://github.com/woksin/pi-setup): My pi coding agent setup: global rules, subagents, extensions, installer, lanes and pi-train
 - [**pi-jobs**](https://github.com/woksin/pi-jobs): Background shell jobs and watches for pi that wake the agent when they finish, at zero token cost
